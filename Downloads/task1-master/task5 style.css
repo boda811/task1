@@ -1,0 +1,151 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:  Gadget, sans-serif;
+
+}    
+
+#header1
+{
+    background: url(banner.jpg) center scroll no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+#header1 h1
+{
+    padding-top: 200px;
+    padding-bottom: 30px;
+    color: #4db8ff;
+}
+button
+{
+    margin-top: 30px;
+    background-color: rgb(231, 76, 60);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+#header2
+{
+    position: relative;
+    
+}
+#div111
+{
+    width: 400px;
+    height: 300px;
+    text-align: right;
+    padding-right:10px;
+    position:absolute;
+    top:0px;
+    left:50px;
+    padding-top: 60px;       
+}
+#div222
+{
+    position: absolute;
+    left: 515px;
+    padding-top: 40px;
+}
+#div333
+{
+    width: 400px;
+    height: 300px;
+    text-align: left;
+    padding-left:10px;
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    padding-top: 60px;               
+}
+#header2 h1
+{
+    padding-bottom: 30px;
+    color: #4db8ff;
+}
+#header3
+{
+    height: 300px;
+    width: 1349px;
+    background-color:rgb(231, 76, 60);
+    position: absolute;
+    top: 1000px;
+    text-align: center; 
+}
+#header3 h1
+{
+    padding-bottom: 30px;
+    padding-top: 60px;
+    color: white;
+}
+#header3 h2
+{
+    padding-top: 30px;
+    color: white;
+}
+#header3 p
+{
+    color: rgb(236,236,236);
+}
+#header4
+{
+  position: relative;
+  top: 800px;
+  height: 300;
+}
+#header4 div
+{
+    border-radius: 3px;
+    border: solid thin gray;
+}
+#header4 img
+{
+    width: 280px;
+    height:150px;
+}
+#header4 h2
+{
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: #4db8ff;
+}
+#header4 p
+{
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+#header5
+{
+    height: 350px;
+    width: 1349px;
+    background-color: #4db8ff;
+    position: absolute;
+    top: 1750px;
+    text-align: center;
+    color: white;
+}
+#header5 i
+{
+   color: rgb(231, 76, 60);
+}
+#header5 h1
+{
+    padding-bottom: 25px;
+    padding-top: 90px;
+}
+#header5 a
+{
+   text-decoration: none;
+   padding-left: 40px;
+   color: white;
+}
+span
+{
+    border: dotted thin white;
+}
